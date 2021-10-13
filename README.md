@@ -1,4 +1,4 @@
-# OpenCV Workshot
+# OpenCV Workshop
 
 Albert, Ben, & Gabrielle
 
