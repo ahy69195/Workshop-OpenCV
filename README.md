@@ -11,12 +11,6 @@ Install dependencies with conda (MacOS)
 
 ## Workshop
 
-1. Basics of images
-1. Image processing
-1. Developing a pipeline
-1. ****
-
-- How to represent images
-  - Working with images in CV2 vs. scikit-image
-- SVD of image
-
+1. Basics of images (color spaces, geometric transformations)
+2. Image processing (batch processing)
+3. Intro to Machine Learning with OpenCV
